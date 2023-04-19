@@ -1,6 +1,6 @@
 # Руководство по Makefile
 
-Руководство по использованию makefile для проекта [lib_matrix](../README_RUS.md)
+Руководство по использованию makefile для проекта [lib_matrix](../README.md)
 
 Author : [Egor Kondratov](https://github.com/mavissig)
 
